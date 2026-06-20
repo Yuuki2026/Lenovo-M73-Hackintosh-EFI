@@ -16,5 +16,5 @@
 
 
 ## 下载
-[EFI v1.0 下载](https://github.com/Yuuki2026/Lenovo-M73-Hackintosh-EFI/releases/download/v1.0/EFI.zip)
+[EFI v1.0 下载 (内含个人序列号,请重新生成替换) ](https://github.com/Yuuki2026/Lenovo-M73-Hackintosh-EFI/releases/download/v1.0/EFI.zip)
 ![M73后面板图](https://user-images.githubusercontent.com/849044/82004641-49d07080-9618-11ea-9526-e21acc495a6c.jpg)
